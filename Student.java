@@ -14,3 +14,4 @@ public class Student {
         System.out.println(obj.name + " " + obj.age + " " + obj.gender);
     }
 }
+
